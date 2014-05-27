@@ -8,12 +8,21 @@
             "email": "davi@andradenunes.org"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/ndougoud/NotificationPusher"
+    "repositories": {
+        "notification-pusher": {
+            "type": "package",
+            "package": {
+                "name": "sly/notification-pusher",
+                "description": "Sly notification pusher with some fixes",
+                "version": "2.0.1",
+                "source": {
+                    "url": "https://github.com/ndougoud/NotificationPusher",
+                    "type": "git",
+                    "reference": "852ba0014c6aefeecd7db4357bfd5e3e37713dc0"
+                }
+            }
         }
-    ],
+    },
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "~4.0",
