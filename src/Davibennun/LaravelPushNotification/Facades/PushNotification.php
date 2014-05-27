@@ -2,8 +2,6 @@
 
 use Illuminate\Support\Facades\Facade;
 
-//TEST
-
 class PushNotification extends Facade {
 
     /**

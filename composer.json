@@ -8,6 +8,12 @@
             "email": "davi@andradenunes.org"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ndougoud/NotificationPusher"
+        }
+    ],
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "~4.0",
