@@ -14,7 +14,7 @@
             "package": {
                 "name": "sly/notification-pusher",
                 "description": "Sly notification pusher with some fixes",
-                "version": "2.0.1",
+                "version": "2.0",
                 "source": {
                     "url": "https://github.com/ndougoud/NotificationPusher",
                     "type": "git",
